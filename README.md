@@ -18,9 +18,8 @@ Funcionalidades
 -Configuração do Discord
 O script usa um bot do Discord para enviar notificações e receber comandos. Configure os seguintes parâmetros no script:
 
-DISCORD_BOT_TOKEN: Token do bot do Discord.
-CHANNEL_ID: ID do canal do Discord onde as notificações serão enviadas.
-WEBHOOK_URL: URL do webhook do Discord para envio de mensagens e arquivos.
+![image](https://github.com/user-attachments/assets/9c3d260a-0b1b-4245-b0a4-8c0939ecc7ef)
+
 
 
 
