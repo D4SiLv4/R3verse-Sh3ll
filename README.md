@@ -55,10 +55,12 @@ Os comandos para controlar o script devem ser enviados no canal configurado no D
 Para executar o `R3verse Sh3ll`, é necessário instalar as seguintes bibliotecas Python:
 
 Você pode instalar todas as dependências utilizando o seguinte comando:
+### Instalação de Dependências
+
+Para instalar todas as dependências necessárias, execute o seguinte comando:
 
 ```bash
 pip install subprocess requests json threading os platform base64 logging pyscreenshot opencv-python psutil time tempfile keyboard datetime discord.py shutil sys browser-cookie3 mss 
 
 
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀
