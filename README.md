@@ -40,3 +40,10 @@ Os comandos para controlar o script devem ser enviados no canal configurado no D
 - !explore: Explora a rede local e envia o resultado para o Discord.
 - !schedule <comando> <hora>: Agenda um comando para ser executado em um horário específico.
 - !update <URL>: Atualiza o script a partir de uma URL fornecida.
+
+Características
+Compatibilidade entre plataformas: Funciona em sistemas baseados em Windows e Unix.
+Personalizável: Facilmente configurável para direcionar diferentes endereços IP e portas.
+Operação Furtiva: Opera com espaço mínimo para evitar detecção.
+Tratamento de erros: Mecanismos integrados para lidar com erros comuns de rede e restabelecer conexões.
+Extensível: O design modular permite fácil adição de novos recursos.
