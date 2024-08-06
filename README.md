@@ -43,6 +43,8 @@ Os comandos para controlar o script devem ser enviados no canal configurado no D
 - !schedule <comando> <hora>: Agenda um comando para ser executado em um horário específico.
 - !update <URL>: Atualiza o script a partir de uma URL fornecida.
 
+**https://youtu.be/FykeAP13Yw4**
+
 Características
 Compatibilidade entre plataformas: Funciona em sistemas baseados em Windows e Unix.
 Personalizável: Facilmente configurável para direcionar diferentes endereços IP e portas.
