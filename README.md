@@ -24,7 +24,9 @@ O script usa um bot do Discord para enviar notificações e receber comandos. Co
 
 ![image](https://github.com/user-attachments/assets/9c3d260a-0b1b-4245-b0a4-8c0939ecc7ef)
 
+Para instalar todas as dependências, execute o seguinte comando:
 
+pip install requests pyscreenshot opencv-python psutil keyboard discord browser_cookie3 mss
 
 
 Os comandos para controlar o script devem ser enviados no canal configurado no Discord. Cada comando deve ser prefixado com um "!", por exemplo:
