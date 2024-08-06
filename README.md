@@ -5,7 +5,7 @@ O R3verse Sh3ll é um script avançado de shell reverso em Python projetado para
 ![image](https://github.com/user-attachments/assets/f7e7a328-3b0f-483f-bb03-58e2bfab9698)
 
 
-Funcionalidades
+# Funcionalidades
 - Execução de Comandos Remotos: Execute comandos no sistema alvo diretamente do canal Discord.
 - Captura de Tela: Realiza captura de tela e envia as imagens para o Discord.
 - Gravação de Tela: Grava a tela do alvo e envia o vídeo resultante para o Discord.
@@ -19,7 +19,7 @@ Funcionalidades
 - Notificações via Discord: Integração completa com o Discord para notificações e envio de relatórios.
 
 
-- Configuração do Discord
+ # Configuração do Discord
 O script usa um bot do Discord para enviar notificações e receber comandos. Configure os seguintes parâmetros no script:
 
 ![image](https://github.com/user-attachments/assets/9c3d260a-0b1b-4245-b0a4-8c0939ecc7ef)
