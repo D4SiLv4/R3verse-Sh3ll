@@ -1,7 +1,8 @@
 # R3verse Sh3ll
 
 O R3verse Sh3ll é um script avançado de shell reverso em Python projetado para operações de pentest e auditoria de segurança. Este script permite controle remoto e execução de comandos em sistemas comprometidos, com notificações e relatórios integrados via Discord. O R3verse Sh3ll fornece uma variedade de funcionalidades para coleta de informações, execução de comandos, monitoramento de atividades e exfiltração de dados.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-![image](https://github.com/user-attachments/assets/5709811b-44b8-4ad6-96e3-f4f52e4d9b5a)
+![image](https://github.com/user-attachments/assets/f7e7a328-3b0f-483f-bb03-58e2bfab9698)
+
 
 Funcionalidades
 - Execução de Comandos Remotos: Execute comandos no sistema alvo diretamente do canal Discord.
