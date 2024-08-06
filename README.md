@@ -55,12 +55,6 @@ Para executar o `R3verse Sh3ll`, é necessário instalar as seguintes biblioteca
 Você pode instalar todas as dependências utilizando o seguinte comando:
 
 ```bash
-pip install subprocess requests json threading os platform base64 logging pyscreenshot opencv-python psutil time tempfile keyboard datetime discord.py shutil sys browser-cookie3 mss 
-
-
-Aviso: Este script deve ser usado apenas para fins educacionais e em ambientes controlados. O uso indevido deste script pode violar leis e regulamentos. O autor não se responsabiliza por qualquer dano causado pelo uso deste script.
-
-
-Esta descrição cobre todos os aspectos importantes do script, incluindo suas funcionalidades, dependências, configuração e uso, proporcionando uma visão clara e profissional do projeto. &#8203;:citation[oaicite:0]{index=0}&#8203;
+pip install subprocess requests json threading os platform base64 logging pyscreenshot opencv-python psutil time tempfile keyboard datetime discord.py shutil sys browser-cookie3 mss
 
 
